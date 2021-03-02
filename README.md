@@ -1,1 +1,2 @@
-Dream!
+# Dream-
+This is game like dream
